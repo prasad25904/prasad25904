@@ -8,7 +8,6 @@ I'm Prasad, a passionate developer currently working on **AAI Pradipti**, a webs
 - 🌱 I’m currently learning advanced concepts in data science, modern web development frameworks, and optimizing user experiences.  
 - 👯 I’m looking to collaborate on projects that combine data science and web development, especially with React and modern JavaScript frameworks.  
 - 🤔 I’m looking for help with enhancing accessibility in web design and implementing complex regression models in real-world scenarios.  
-- 💬 Ask me about **React Router**, **data regression techniques**, or building elegant, user-friendly interfaces.  
 - 📫 How to reach me: Feel free to connect via email or message me here!  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy creating intuitive applications that make technology approachable for everyone.  
